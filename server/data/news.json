@@ -22,5 +22,11 @@
     "title": "test van dertien maart",
     "content": "dit is een test",
     "date": "2025-03-13"
+  },
+  {
+    "slug": "docker-werkt-eindelijk",
+    "title": "Docker werkt eindelijk",
+    "content": "Docker is aan het runnen.",
+    "date": "2025-03-13"
   }
 ]
